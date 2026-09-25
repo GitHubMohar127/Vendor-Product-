@@ -1,0 +1,8 @@
+psycopg2-binary
+fastapi
+uvicorn[standard]
+psycopg2-binary
+rapidfuzz
+python-dotenv
+pandas
+openpyxl

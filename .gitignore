@@ -1,0 +1,26 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+venv/
+.venv/
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+~$*.xlsx
+~$*.xls
